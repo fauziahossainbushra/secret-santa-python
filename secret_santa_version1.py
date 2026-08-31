@@ -1,6 +1,6 @@
 import random
 
-participants = ["Kaniz","Gausia","Kawser","Fauzia","Fardeen"]
+participants = ["Amy","Ben","Cara","Tom","Emma"]
 assigned= []
 
 for person in participants:
@@ -13,4 +13,3 @@ for person in participants:
 
     print(person, "->", chosen_person)
 
-print("Git is watching me!")
