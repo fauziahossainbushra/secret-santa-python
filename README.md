@@ -28,3 +28,4 @@ The output will be different each time the program runs because the assignments 
 ## What I learned
 This project helped me practice Python control flow and problem-solving by creating rules that the program must follow while generating random assignments.
 It was also an opportunity to practice using Git and GitHub to manage and publish a project.
+Git remote practice
